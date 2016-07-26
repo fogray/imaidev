@@ -419,9 +419,6 @@ a:visited { color: #205caa; }
   height:100px;
   width:300px;
 }
-.col-md-12{
-  width:100%;
-}
 .portlet{
   border: 1px solid #e8e8e8;
 }
@@ -434,10 +431,6 @@ a:visited { color: #205caa; }
 .portlet-body{
   border:none;
   width: 100%;
-}
-.portlet-title .caption{
-  font-weight: bold;
-  font-size: 15px;
 }
 .pull-left{
   float:left;
