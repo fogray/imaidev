@@ -30,5 +30,5 @@ layout: page
         var s = ADM_WEB_SHORTCUT.init();
         document.getElementById('adm-block').innerHTML =s;
     </script>
-</div> 
+</div>  
 
