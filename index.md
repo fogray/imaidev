@@ -24,11 +24,11 @@ layout: page
 2. [免费https证书](/doc/letsencrypt-https)
 3. [css的例子(容器管理2)](http://dockerui2.imaicloud.com/)
 
-<div class="adm-block">
+<div class="adm-block" id="adm-block">
     <script src="https://dev.imaicloud.com/adm-web/skins/js/shotcut.js" type="text/javascript"></script>
     <script type="text/javascript">
         var s = cShortCutDiv();
-        $('.adm-block').append(s);
+        document.getElementById('adm-block').innerHTML =s;
     </script>
 </div> 
 
