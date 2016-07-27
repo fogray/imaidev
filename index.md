@@ -28,5 +28,5 @@ layout: page
     <script src="https://dev.imaicloud.com/adm-web/skins/js/shotcut.js" type="text/javascript">
         return cShortCutDiv();
     </script>
-</div>
+</div> 
 
