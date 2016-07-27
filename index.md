@@ -27,7 +27,7 @@ layout: page
 <div class="adm-block" id="adm-block">
     <script src="https://dev.imaicloud.com/adm-web/skins/js/shotcut.js" type="text/javascript"></script>
     <script type="text/javascript">
-        var s = cShortCutDiv();
+        var s = ADM_WEB_SHORTCUT.init();
         document.getElementById('adm-block').innerHTML =s;
     </script>
 </div> 
