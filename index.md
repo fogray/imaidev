@@ -25,7 +25,6 @@ layout: page
 3. [css的例子(容器管理2)](http://dockerui2.imaicloud.com/)
 
 <div class="adm-block" id="admShortcut">
-    <script src="https://dev.imaicloud.com/adm-web/skins/js/shotcut.js" type="text/javascript"></script>
     <script type="text/javascript">
         window.ADM_SHORTCUT();
     </script>
